@@ -1,0 +1,214 @@
+﻿id,dataset ,injuries_cat_2,days_tracked,note
+af17_1,af17,0,6,none
+af17_2,af17,NA,0,na
+af17_3,af17,0,3,none
+af17_4,af17,0,3,none
+af17_5,af17,0,1,none
+af17_6,af17,0,5,none
+af17_7,af17,0,1,none
+af17_8,af17,0,10,none
+af17_9,af17,2,3,wound from waistban
+af17_10,af17,0,8,none
+af17_11,af17,0,7,none
+af17_12,af17,0,5,none
+af17_13,af17,0,5,none
+af17_14,af17,0,5,none
+af17_15,af17,1,3,tiny rub abrasion on the back
+af17_16,af17,0,1,dead
+af17_17,af17,NA,0,na
+af17_18,af17,0,6,none
+af17_19,af17,0,3,none
+af17_20,af17,0,6,none
+af17_21,af17,0,3,none
+af17_22,af17,0,4,none
+af17_23,af17,0,0,none
+af17_24,af17,0,4,none
+af17_25,af17,0,1,none
+af17_26,af17,0,0,none
+af17_27,af17,0,4,none
+af17_28,af17,0,1,none
+af17_29,af17,0,4,none
+af17_30,af17,0,1,none
+af17_31,af17,0,7,none
+af17_32,af17,0,7,none
+af17_33,af17,0,8,none
+af17_34,af17,0,6,none
+af20_1,af20,0,11,none
+af20_2,af20,0,8,none
+af20_3,af20,1,6,light abrasion from waistband on one side
+af20_4,af20,1,8,small wound from waistband on one side
+af20_5,af20,0,5,none
+af20_6,af20,0,7,none
+af20_7,af20,0,4,none
+af20_8,af20,0,10,none
+af20_9,af20,NA,6,na
+af20_10,af20,0,10,none
+af20_11,af20,0,8,none
+af20_12,af20,0,8,none
+af20_13,af20,0,6,none
+af20_14,af20,0,6,none
+af20_15,af20,0,4,none
+af20_16,af20,0,3,none
+af20_17,af20,0,4,none
+af20_18,af20,0,4,none
+af20_19,af20,0,5,none
+af20_20,af20,0,8,none
+af20_21,af20,0,2,none
+af20_22,af20,1,2,small abrasion on the belly
+af20_23,af20,0,2,none
+af20_24,af20,1,8,light abrasion from waistband on one side
+af20_25,af20,1,8,light abrasion from waistband on both sides
+af20_26,af20,0,8,none
+af20_27,af20,0,8,none
+af20_28,af20,0,6,none
+af20_29,af20,1,6,light abrasion on the butt
+af20_30,af20,0,3,none
+af20_31,af20,0,8,none
+af20_32,af20,0,14,none
+af20_33,af20,0,6,none
+af20_34,af20,0,3,none
+af20_35,af20,0,7,none
+af20_36,af20,0,6,none
+af20_37,af20,0,14,none
+af20_38,af20,0,12,none
+af20_39,af20,2,9,deep waistband wound on one side
+af20_40,af20,0,8,none
+af20_41,af20,0,8,none
+af20_42,af20,1,7,light abrasion from waistband on one side
+af20_43,af20,1,7,light abrasion from waistband on one side
+af20_44,af20,NA,9,na
+os19_10m,os19,2,7,Deep wound in the middle of the back from a knot stuck between wb and the back
+os19_11m,os19,0,8,none
+os19_12f,os19,1,8,light waistband abrasions on one side
+os19_13f,os19,0,2,"Dead due to injury. No open woods, but paralyzed hind lefts. Probably stepped on when trying to catch for translocation. Died overnight."
+os19_14f,os19,0,6,none
+os19_15m,os19,0,4,none
+os19_16m,os19,1,5,light waistband abrasions on one side
+os19_17m,os19,1,6,two small wounds on back an belly
+os19_18m,os19,0,7,none
+os19_19f,os19,1,7,light waistband abrasions on both sides
+os19_1f,os19,2,7,deep waistband wound one one side
+os19_20m,os19,1,6,light wound on the back
+os19_21f,os19,1,6,light waistband abrasions on one side
+os19_22f,os19,2,11,deep waistband wound one one side
+os19_23f,os19,0,5,none
+os19_24f,os19,NA,9,NA
+os19_25m,os19,0,8,none
+os19_26f,os19,NA,1,NA
+os19_27m,os19,0,5,none
+os19_28m,os19,0,8,none
+os19_29f,os19,0,5,none
+os19_2m,os19,0,5,none
+os19_30m,os19,2,7,deep waistband wound on one side
+os19_31m,os19,1,10,light wound on the back
+os19_32f,os19,1,9,light waistband abrasions on one side
+os19_33f,os19,NA,2,NA
+os19_34f,os19,NA,2,NA
+os19_35m,os19,1,8,light waistband abrasions on one side
+os19_36m,os19,2,6,deep waistband wound on one side
+os19_37f,os19,1,8,light waistband abrasions on one side
+os19_38f,os19,0,9,none
+os19_39m,os19,0,10,none
+os19_3m,os19,0,9,none
+os19_40f,os19,1,10,light waistband abrasions on one side
+os19_41f,os19,2,6,deep waistband wounds on oth sides
+os19_42m,os19,0,8,none
+os19_43m,os19,0,9,none
+os19_44f,os19,2,10,deep wound from butt strap
+os19_45f,os19,0,12,none
+os19_46f,os19,NA,10,NA
+os19_47m,os19,0,9,none
+os19_48m,os19,0,9,none
+os19_49m,os19,2,5,deep waistband wounds on both sides
+os19_4m,os19,0,8,none
+os19_50f,os19,0,6,none
+os19_51f,os19,0,5,none
+os19_52f,os19,0,4,none
+os19_5f,os19,1,9,light wound on the back
+os19_6f,os19,0,6,none
+os19_7m,os19,0,4,none
+os19_8m,os19,0,6,none
+os19_9f,os19,1,8,light waistband abrasions on one side
+dt17_1,dt17,1,3,small abrasion on the back
+dt17_2,dt17,NA,3,NA
+dt17_3,dt17,0,2,none
+dt17_4,dt17,1,13,"abrasions on the legs, possibly from the antenna"
+dt17_5,dt17,0,6,none
+dt17_6,dt17,NA,2,NA
+dt17_7,dt17,0,7,none
+dt17_9,dt17,0,7,none
+dt17_8,dt17,1,3,tiny abrasion on the tail
+dt17_10,dt17,1,7,tiny abrasion on the tail
+dt17_11,dt17,2,9,deep wound on right flank
+dt17_12,dt17,2,7,deep wound on left flank
+dt17_13,dt17,0,5,none
+dt17_14,dt17,0,4,none
+dt17_15,dt17,1,6,tiny abrasion on the right flank
+dt17_16,dt17,2,6,deep wounds on both flanks
+dt17_17,dt17,0,2,none
+dt17_18,dt17,0,5,none
+dt17_19,dt17,1,6,tiny abrasion on the tail
+dt17_20,dt17,0,7,none
+dt17_21,dt17,0,2,none
+dt17_22,dt17,1,4,small abrasions on both sides
+dt17_23,dt17,NA,2,NA
+dt17_25,dt17,1,6,small abrasion on one side
+dt17_24,dt17,0,3,none
+dt17_26,dt17,0,4,none
+dt17_27,dt17,0,1,none
+dt17_28,dt17,0,1,none
+dt17_29,dt17,0,4,none
+dt17_30,dt17,1,5,tiny abrasion on the tail
+dt17_31,dt17,0,2,none
+dt17_32,dt17,0,7,none
+dt17_33,dt17,0,4,none
+dt17_34,dt17,1,7,tiny abrasion on the tail
+dt17_35,dt17,1,6,tiny abrasion on one side
+dt17_36,dt17,0,6,none
+dt19_2,dt19,0,3,none
+dt19_6,dt19,0,4,none
+dt19_7,dt19,0,2,none
+dt19_10,dt19,1,5,abrasions on both flanks and back
+dt19_11,dt19,2,3,deep wound on left flank and back
+dt19_13,dt19,2,2,"wounds, no info, no pic"
+dt19_16,dt19,1,1,light abrasion on the tail
+dt19_17,dt19,2,6,deep wounds on both flanks and back
+dt19_21,dt19,0,1,none
+dt19_22,dt19,1,4,abrasions on left flank and back
+dt19_24,dt19,1,8,small wound on the tail
+dt19_25,dt19,2,8,deep wounds on back and side
+dt19_28,dt19,0,12,none
+dt19_30,dt19,0,8,none
+dt19_32,dt19,0,9,none
+dt19_33,dt19,2,8,wound on left flank
+dt19_37,dt19,2,8,deep wound on left flank and wound on the back
+dt19_39,dt19,1,8,small wound on the back
+dt19_40,dt19,2,8,deep wounds on the right flank and back
+dt19_41,dt19,0,2,none
+dt19_44,dt19,0,9,none
+dt19_46,dt19,1,3,small abrasion on the back
+dt19_47,dt19,NA,1,NA
+dt19_3,dt19,0,1,none
+dt19_4,dt19,0,5,none
+dt19_5,dt19,0,4,none
+dt19_8,dt19,0,2,none
+dt19_9,dt19,1,5,small abrasion on left side
+dt19_12,dt19,2,3,wounds on back and right flank
+dt19_14,dt19,2,2,"wounds, no info, no pic"
+dt19_15,dt19,1,3,light abrasion on the back
+dt19_18,dt19,0,2,none
+dt19_19,dt19,1,5,abrasion on left flank
+dt19_20,dt19,0,4,none
+dt19_23,dt19,2,8,wound on left flank
+dt19_26,dt19,0,2,"none, stuck with the waistband around the knees"
+dt19_27,dt19,0,12,none
+dt19_29,dt19,NA,5,NA
+dt19_31,dt19,NA,4,NA
+dt19_34,dt19,2,9,deep wound on both thighs
+dt19_35,dt19,2,1,"broken arm, unclear if from handling or before"
+dt19_36,dt19,1,4,small abrasions on both sides and back
+dt19_38,dt19,1,7,small abrasion on the tail
+dt19_42,dt19,1,4,abrasion on the tail
+dt19_43,dt19,1,4,small wound on the tail
+dt19_45,dt19,1,3,small abrasion on right flank
+dt19_48,dt19,0,1,none
